@@ -1,0 +1,34 @@
+El fichero de texto ya estaba creado.Bienvenido al juego de blackjack 
+Dinero = 100
+Tiene 100 Dolares
+¿Cuántos dólares quieres apostar? (Ingresa 0 para finalizar)
+java.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\.][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+Su respuesta debe estar entre 0 y100.
+true
+150
+150
+Tiene 150 Dolares
+¿Cuántos dólares quieres apostar? (Ingresa 0 para finalizar)
+java.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\.][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+Su respuesta debe estar entre 0 y150.
+false
+220
+220
+Tiene 220 Dolares
+¿Cuántos dólares quieres apostar? (Ingresa 0 para finalizar)
+java.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\.][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+Su respuesta debe estar entre 0 y220.
+false
+20
+Tiene 20 Dolares
+¿Cuántos dólares quieres apostar? (Ingresa 0 para finalizar)
+java.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\.][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+Su respuesta debe estar entre 0 y20.
+false
+40
+40
+Tiene 40 Dolares
+¿Cuántos dólares quieres apostar? (Ingresa 0 para finalizar)
+java.util.Scanner[delimiters=\p{javaWhitespace}+][position=0][match valid=false][need input=false][source closed=false][skipped=false][group separator=\.][decimal separator=\,][positive prefix=][negative prefix=\Q-\E][positive suffix=][negative suffix=][NaN string=\Q�\E][infinity string=\Q∞\E]
+Su respuesta debe estar entre 0 y40.
+Sales con $40.
